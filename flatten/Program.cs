@@ -52,9 +52,7 @@ namespace flatten {
             }
 
             int exitCode = flatten(dups, keepFolders, recursive);
-            //if(exitCode != EXIT_CODE_OK) {
             Console.ReadKey();
-            //}
             return exitCode;
         }
 
@@ -64,7 +62,6 @@ namespace flatten {
             try {
                 Console.WriteLine("Preparing plan...");
                 plan.prepare(new DirectoryInfo(Environment.CurrentDirectory));
-                //plan.prepare(new DirectoryInfo("C:\\Users\\molin\\Desktop\\tst"));
 
                 plan.execute();
 
