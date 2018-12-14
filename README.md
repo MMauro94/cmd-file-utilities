@@ -2,6 +2,14 @@
 
 The utilities commands are made to be as easy and humanly readable as possible. They are intended to be used directly in the explorer address bar.
 
+# Installaton
+To install, simply put the exacutables in a folder that is in the `PATH` environment variable.
+
+TODO: release with executables
+
+# Utilities doc
+Here you'll the documentation of each utiliy.
+
 ## flatten
 The `flatten` command is useful when you have a lot of folders you want to extract the content of in the parent folder.
 
