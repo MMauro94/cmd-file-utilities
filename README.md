@@ -5,7 +5,7 @@ The utilities commands are made to be as easy and humanly readable as possible. 
 # Installaton
 To install, simply put the exacutables in a folder that is in the `PATH` environment variable.
 
-TODO: release with executables
+You can find the latest executables in the [releases page](https://github.com/MMauro94/cmd-file-utilities/releases).
 
 # Utilities doc
 Here you'll the documentation of each utiliy.
